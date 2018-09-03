@@ -11,6 +11,8 @@ Linux Shell Scripting: A Project-Based Approach to Learning Learn how to shell s
 
 ### [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 
+### [Systemd Cheat Sheet](https://www.linuxtrainingacademy.com/systemd-cheat-sheet/)
+
 ### [Linux System Administrator Projects](https://www.linuxtrainingacademy.com/linux-projects/)
 
 ### [Linux ip Command Networking Cheat Sheet](https://www.linuxtrainingacademy.com/linux-ip-command-networking-cheat-sheet/)
