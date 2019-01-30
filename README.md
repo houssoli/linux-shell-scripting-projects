@@ -7,7 +7,7 @@ Linux Shell Scripting: A Project-Based Approach to Learning Learn how to shell s
 
 - [Downloads](http://mirror.linuxtrainingacademy.com)
 
--[Vim Cheat Sheet](https://www.linuxtrainingacademy.com/vim-cheat-sheet/)
+- [Vim Cheat Sheet](https://www.linuxtrainingacademy.com/vim-cheat-sheet/)
 
 - [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 
